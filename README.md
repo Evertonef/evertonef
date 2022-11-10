@@ -1,4 +1,4 @@
-**Hello, I'm @Evertonef**
+**Hello, I'm Everton Ferreira**
    
 - 👀 I am interested in learning new programming languages 
 - 🌱 I am recently learning the programming language HTML-CSS-JavaScript-PHP.
@@ -9,8 +9,10 @@ evertonef/evertonef is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonef&layout=compact&theme=tokyonight)](https://github.com/Evertonef?tab=repositories)
-   
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonef&show_icons=true&theme=tokyonight)](https://github.com/Evertonef).
-   
+<div align="center">
+  <a href="https://github.com/Evertonef">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evertonef&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evertonef&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
    
