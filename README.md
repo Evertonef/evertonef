@@ -1,7 +1,8 @@
 ## **Hello, I'm Everton Ferreira**
 <div align="center">
 <div align="left">  
-   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evertonef&label=Profile%20views&color=337733&style=flat" alt="evertonef" /> </p>
+
 - 👀 I am interested in learning new programming languages 
 - 🌱 I am recently learning the programming language HTML-CSS-JavaScript-PHP.
 - 💞️ I'm looking to collaborate for the company's projects and develop myself within the company
